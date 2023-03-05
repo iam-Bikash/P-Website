@@ -12,7 +12,7 @@ function PageTransitions() {
         "active-btn",
         ""
       );
-      this.className += " active-btn";
+      this.className += " active-btn"; 
     });
   }
 
