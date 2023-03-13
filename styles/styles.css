@@ -875,7 +875,7 @@ section {
 }
 
 .footer,.top-link {
-  font-size: 20px;
+  font-size: 15px;
   color: var(--tertiary);
   overflow-wrap: break-word
 }
